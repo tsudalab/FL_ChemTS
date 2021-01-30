@@ -1,5 +1,7 @@
 # FL_ChemTS
 
+Fluorescent molecule design using quantum chemical calculation and tree-seach based molecule generator (ChemTS). 
+This program is based on ChemTS, which is available at https://github.com/tsudalab/ChemTS.
 
 
 # Requirements
