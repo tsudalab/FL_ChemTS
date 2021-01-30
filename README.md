@@ -5,7 +5,7 @@ This program is based on ChemTS, which is available at https://github.com/tsudal
 
 
 # Requirements
-1. [Gussian]
+1. [Gussian](https://gaussian.com)==16
 2. [Python](https://www.anaconda.com/download/)>=2.7 
 3. [Keras](https://github.com/fchollet/keras) (version 2.0.5) If you installed the newest version of keras, some errors will show up. Please change it back to keras 2.0.5 by pip install keras==2.0.5. 
 4. [RDKit](https://anaconda.org/rdkit/rdkit)
