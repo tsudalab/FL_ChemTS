@@ -1,7 +1,7 @@
 # FL_ChemTS
 
 De novo fluorescent molecule generator based on ChemTS (https://github.com/tsudalab/ChemTS) and quantum chemical calculation.  
-This program includes an extented version of ChemTS that is parallelizaed by MPI and a filter for Gaussian (https://gaussian.com) to design fluorescent molecule.
+This program includes an extented version of ChemTS that is parallelizaed by MPI and a filter for Gaussian (https://gaussian.com) to compute absorption and fluorescence wavelength of a molecule.
 The Gaussian filter automatically computes the optimized singlet ground (S0) state, vertical singlet excited (S1) state, and relaxed S1 state of a molecule at the density functional theory level.
 
 # Requirements
