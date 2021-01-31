@@ -1,0 +1,709 @@
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/_libs/__init__.py:4: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .tslib import iNaT, NaT, Timestamp, Timedelta, OutOfBoundsDatetime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/__init__.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (hashtable as _hashtable,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/dtypes/common.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos, lib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/util/hashing.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import hashing, tslib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/base.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import (lib, index as libindex, tslib as libts,
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/tools/datetimes.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.strptime import array_strptime
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/tseries/frequencies.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.tslibs.frequencies import (  # noqa
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/indexes/datetimelike.py:28: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs.period import Period
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/sparse/array.py:33: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.sparse as splib
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/window.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.window as _window
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/groupby.py:68: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import lib, groupby as libgroupby, Timestamp, NaT, iNaT
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/core/reshape/reshape.py:31: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from pandas._libs import algos as _algos, reshape as _reshape
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/pandas/io/parsers.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  import pandas._libs.parsers as parsers
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/__init__.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .murmurhash import murmurhash3_32
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/feature_extraction/hashing.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import _hashing
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:24: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._logistic_sigmoid import _log_logistic_sigmoid
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/extmath.py:26: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sparsefuncs_fast import csr_row_norms
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/utils/random.py:10: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._random import sample_without_replacement
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/datasets/svmlight_format.py:25: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._svmlight_format import _load_svmlight_file
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:8: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm, liblinear
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/svm/base.py:9: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import libsvm_sparse
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/base.py:35: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils.seq_dataset import ArrayDataset, CSRDataset
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/least_angle.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ..utils import arrayfuncs, as_float_array, check_X_y, deprecated
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/cluster/supervised.py:23: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .expected_mutual_info_fast import expected_mutual_information
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/metrics/pairwise.py:30: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/coordinate_descent.py:29: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import cd_fast
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/__init__.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sgd_fast import Hinge, Log, ModifiedHuber, SquaredLoss, Huber
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/linear_model/sag.py:12: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .sag_fast import sag
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:6: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .ball_tree import BallTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+/home/terayama/anaconda3/envs/py2/lib/python2.7/site-packages/sklearn/neighbors/__init__.py:7: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .kd_tree import KDTree
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+2021-01-30 10:36:10.860243: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860319: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860321: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860294: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860324: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860301: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860297: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860338: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860284: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-01-30 10:36:10.860339: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+
+=====================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 15
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+=====================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Terminated (signal 15)
+Your job 4838553 ("job_sub.sh") has been submitted
