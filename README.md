@@ -29,5 +29,8 @@ The file is located at FL_ChemTS/data/.
 # Trained RNN network
 We trained a RNN network using the above SMILES dataset. The trained network files are located at FL_ChemTS/RNN_model/. 
 
+# Generated molecules
+The generated 3,643 molecules are listed in the FL_ChemTS/generated_mols/result.csv file. The file contains following information: generated molecules (SMILES), calculated absorption and fluorescence wavelengths and their oscillator strengths, and basic information such as molecular weight.
+
 # License
 This package is distributed under the MIT License.
