@@ -413,11 +413,9 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
         state=['&']
         """selection step"""
         node_pool=[]
-
         lock.acquire()
 
-
-        print 'time', time.time() -start_time, 'node.expanded', node.expanded, 'node.nodeadded', node.nodeadded, 'len(node.childNodes)', len(node.childNodes), len(node.expanded)
+        #print 'node.expanded', node.expanded, 'node.nodeadded', node.nodeadded, 'len(node.childNodes)', len(node.childNodes), len(node.expanded)
         while len(node.expanded)>0 and node.nodeadded==[] and len(node.childNodes)==len(node.expanded):
             #node.num_thread_visited+=1
             #node.virtual_loss+=0
@@ -490,7 +488,7 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                     #print('\\n was tried to added... skip')
                     lock.release()   
                     continue
-            print "m is:",m
+            #print "m is:",m
 
             lock.release()
 	   
@@ -512,7 +510,7 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                 lock.acquire()
                 maxnum+=1
                 ind_mol+=1
-                print('ind_mol', ind_mol)
+                #print('ind_mol', ind_mol)
                 #lock.release()
                 #"""simulation step"""
                 #lock.acquire()
@@ -550,7 +548,7 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                     lock.acquire()
                     free_core_id.append(data[2])
                     use_core_id.remove(data[2])
-                    print('data[0]', data[0],'index', ind_mol, 'data[2]', data[2], 'dest_core', dest_core)
+                    print('data[2]', data[2], 'dest_core', dest_core)
                     lock.release()
                 except:
                     print('comm.recv failed.')
@@ -572,17 +570,6 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                     continue
                 #lock.release()
                 print('free_core_id', free_core_id)
-			#with open('/home/yang/DP-ChemTS/csvresult.csv','wb') as file:
-			 #   for line in text:
-			#	    file.write(line)
-			#		file.write('\n')
-                #lock.acquire()
-			#result_test.append[data]
-                #free_core_id.append(data[2])
-                #with open('/home/yang/csvfile.csv','wb') as file:
-                #    for line in result_test:
-                #        file.write(str(line))
-                #        file.write('\n')
                 #lock.release()
                 re = 0
                 tag = status.Get_tag()
@@ -609,10 +596,10 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                         elif objective == 'WL':
                             re = (np.tanh(0.003*(data[0]-400)) + 1)/2
                         elif objective == 'WLFL':
-                            fl_target = 1200
+                            fl_target = 600
                             w_fl = 0.8
                             w_fl_intensity = 0.2
-                            wl_target = 700
+                            wl_target = 300
                             w_wl = 0.8
                             w_wl_intensity = 0.2
                             
@@ -666,6 +653,44 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                         s1_wavelength_list_list.append(data[15])
                         s1_strength_list_list.append(data[16])
 
+                        with open('csvcom_.csv','wb') as file: 
+                            for line1 in wave_compounds:
+                                file.write(str(line1))
+                                file.write('\n')
+                        with open('csvwave_.csv','wb') as file:
+                            for line2 in wave:
+                                file.write(str(line2))
+                                file.write('\n')
+                    
+                        with open(output_file,'wb') as file:
+                            file.write('#Search strategy, '+ts_strategy+', search_parameter, '+str(search_parameter)+', alpha, '+str(alpha)+', objective,'+str(objective)+', parallel simulations, '+str(num_simulations)+', gaussian parallel, '+str(gau_parallel)+', simulation_time (h), '+str(simulation_time/3600)+', num_rollout, '+str(num_rollout)+'charge_check, '+str(charge_check)+'SA_score_check, '+str(SA_score_check)+'\n')
+                            file.write('#Compound, index, wavelength, uv_intensity, s1_wavelength, s1_strength, reward,  deen, gap, mol_weight, logP, SA_score, TS depth,  wavelength_list, intensity_list, s1_wl_list, s1_strength_list \n')
+                            for i in range(len(wave_compounds)):
+                                file.write(str(wave_compounds[i])+', ')
+                                file.write(str(index_list[i])+', ')
+                                file.write(str(wave[i])+', ')
+                                file.write(str(uv_intensity_list[i])+', ')
+                                file.write(str(s1_wavelength_list[i])+', ')
+                                file.write(str(s1_strength_list[i])+', ')
+                                file.write(str(reward_list[i])+', ')
+                                file.write(str(deen_list[i])+', ')
+                                file.write(str(gap_list[i])+', ')
+                                file.write(str(mol_weight_list[i])+', ')
+                                file.write(str(logP_list[i])+', ')
+                                file.write(str(SA_score_list[i])+', ')
+                                file.write(str(depth_list[i])+', ')
+                                for wl_i in wl_list_list[i]:
+                                    file.write(str(wl_i)+', ')
+                                for int_i in intensity_list_list[i]:
+                                    file.write(str(int_i)+', ')
+                                for wl_i in s1_wavelength_list_list[i]:
+                                    file.write(str(wl_i)+', ')
+                                for int_i in s1_strength_list_list[i]:
+                                    file.write(str(int_i)+', ')
+                                file.write('\n')
+
+                            
+                            
                         lock.release()
                     if data[0]==-1000:
                         #re=-1
@@ -689,48 +714,6 @@ def ChemTS_run(rootnode,result_queue,lock,chem_model,ts_strategy,search_paramete
                     node.delete_virtual_loss()
                     node = node.parentNode
                 lock.release()
-
-
-        #output
-        print('End-of-loop')
-        """
-        with open('csvcom_.csv','w') as file: 
-            for line1 in wave_compounds:
-                file.write(str(line1))
-                file.write('\n')
-        
-        with open('csvwave_.csv','w') as file:
-            for line2 in wave:
-                file.write(str(line2))
-                file.write('\n')
-                        
-        with open(output_file,'w') as file:
-            file.write('#Search strategy, '+ts_strategy+', search_parameter, '+str(search_parameter)+', alpha, '+str(alpha)+', objective,'+str(objective)+', parallel simulations, '+str(num_simulations)+', gaussian parallel, '+str(gau_parallel)+', simulation_time (h), '+str(simulation_time/3600)+', num_rollout, '+str(num_rollout)+'charge_check, '+str(charge_check)+'SA_score_check, '+str(SA_score_check)+'\n')
-            file.write('#Compound, index, wavelength, uv_intensity, s1_wavelength, s1_strength, reward,  deen, gap, mol_weight, logP, SA_score, TS depth,  wavelength_list, intensity_list, s1_wl_list, s1_strength_list \n')
-            for i in range(len(wave_compounds)):
-                file.write(str(wave_compounds[i])+', ')
-                file.write(str(index_list[i])+', ')
-                file.write(str(wave[i])+', ')
-                file.write(str(uv_intensity_list[i])+', ')
-                file.write(str(s1_wavelength_list[i])+', ')
-                file.write(str(s1_strength_list[i])+', ')
-                file.write(str(reward_list[i])+', ')
-                file.write(str(deen_list[i])+', ')
-                file.write(str(gap_list[i])+', ')
-                file.write(str(mol_weight_list[i])+', ')
-                file.write(str(logP_list[i])+', ')
-                file.write(str(SA_score_list[i])+', ')
-                file.write(str(depth_list[i])+', ')
-                for wl_i in wl_list_list[i]:
-                    file.write(str(wl_i)+', ')
-                for int_i in intensity_list_list[i]:
-                    file.write(str(int_i)+', ')
-                for wl_i in s1_wavelength_list_list[i]:
-                    file.write(str(wl_i)+', ')
-                for int_i in s1_strength_list_list[i]:
-                    file.write(str(int_i)+', ')
-                file.write('\n')
-        """
 
 
     result_queue.put([all_compounds,wave_compounds,depth,wave,maxnum,uv_intensity_list,deen_list,gap_list,reward_list,index_list,mol_weight_list,logP_list,SA_score_list,depth_list])
@@ -806,7 +789,7 @@ def gaussion_workers(chem_model,val,gau_parallel,charge_check):
                 m=None
             #if m!=None and len(task[i])<=81:
 
-            #print('Gaussian worker, check fin. ', str(new_compound[0]),ind)
+
             if m!=None:
                 try:
                     stable=tansfersdf(str(new_compound[0]),ind)
@@ -815,14 +798,14 @@ def gaussion_workers(chem_model,val,gau_parallel,charge_check):
                 if stable==1.0:
                     cd_path = os.getcwd()
                     try:
-			SDFinput = 'CheckMolopt'+str(ind)+'.sdf'
+                        SDFinput = 'CheckMolopt'+str(ind)+'.sdf'
                         #wavelength=GauTDDFT_ForDFT('B3LYP', '3-21G*', 1, 'CheckMolopt'+str(ind)+'.sdf')
-                        #calc_sdf = GaussianDFTRun('B3LYP', '3-21G*', gau_parallel, 'OPT fluor energy deen uv homolumo', SDFinput, 0)
-                        calc_sdf = GaussianDFTRun('STO-3G', '3-21G*', gau_parallel, 'OPT fluor energy deen uv homolumo', SDFinput, 0)
+                        #STO3G
+                        calc_sdf = GaussianDFTRun('B3LYP', '3-21G*', gau_parallel, 'OPT fluor energy deen uv homolumo', SDFinput, 0)
                         outdic = calc_sdf.run_gaussian()
                         wavelength = outdic['uv'][0]
                         s1_wavelength = outdic['S1 Wavelength and Oscillator strengths'][0]
-
+                        print('ind', ind, 'wavelength', wavelength)
                         if os.path.isfile('CheckMol'+str(ind)+'.sdf'):
                             shutil.move('CheckMol'+str(ind)+'.sdf', 'dft_result')
                         if os.path.isfile('CheckMolopt'+str(ind)+'.sdf'):
@@ -915,16 +898,15 @@ if __name__ == "__main__":
 
     ts_strategy = 'puct' #'uct', 'puct' 
     search_parameter = 0.25 #If ts_strategy=='uct', 0 < search_parameter < 1. If ts_strategy=='puct', default value is 5 (AlphaGo). 
-    num_simulations = 29 # core - 1, max: 2560 (skylake)
+    num_simulations = 1199 # core - 1, max: 2560 (skylake)
     gau_parallel = 1
-    num_rollout = 3 #3
+    num_rollout = 3
     simulation_time = 3600*120 # 3600*24 # max: 168h
     alpha = 1 # alph*mean + (1 - alpha)*max + bais
     objective = 'WLFL' # 'WL_IT', 'HL', 'WL'
     charge_check = True # True or False
     SA_score_check = True # True or False
-    output_file = 'csvresult_FP_'+ts_strategy+'_C'+str(search_parameter)+'_alpha'+str(alpha)+'_obj'+objective+'_para'+str(num_simulations)+'_time'+str(simulation_time/3600)+'h_rollout'+str(num_rollout)+'_CC'+str(charge_check)+'_SA'+str(SA_score_check)+'_210130_test.csv'
-
+    output_file = 'csvresult_FP_'+ts_strategy+'_C'+str(search_parameter)+'_alpha'+str(alpha)+'_obj'+objective+'_para'+str(num_simulations)+'_time'+str(simulation_time/3600)+'h_rollout'+str(num_rollout)+'_CC'+str(charge_check)+'_SA'+str(SA_score_check)+'.csv'
 
     thread_pool=[]
     lock=Lock()
@@ -991,4 +973,3 @@ if __name__ == "__main__":
     #else:
        # while True:
            # time.sleep(30)
-           
