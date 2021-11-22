@@ -24,7 +24,7 @@ Please setup your MPI and python environment, in fl_chemts/job_sub.sh.
 
 # Dataset
 We used 153,253 molecules that contain only H, O, N, and C elements obtained from the ZINC database for trainig of the RNN network.
-The file is located at FL_ChemTS/data/.
+The file (250k_rndm_zinc_drugs_clean_std_woSsP+-.smi) is located at FL_ChemTS/data/.
 
 # Trained RNN network
 We trained a RNN network using the above SMILES dataset. The trained network files are located at FL_ChemTS/RNN_model/. 
